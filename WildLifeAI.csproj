@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64</Platforms>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="4.12.0.5764" />
+    <PackageReference Include="Emgu.CV.Bitmap" Version="4.12.0.5764" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="4.12.0.5764" />
+    <PackageReference Include="Emgu.CV.UI" Version="4.12.0.5764" />
+    <PackageReference Include="FluentFTP" Version="53.0.2" />
+    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
+    <PackageReference Include="Microsoft.ML.CpuMath" Version="5.0.0" />
+    <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="5.0.0" />
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.23.2" />
+    <PackageReference Include="Microsoft.ML.OnnxRuntime.Gpu" Version="1.23.2" />
+    <PackageReference Include="Microsoft.ML.OnnxRuntime.Managed" Version="1.23.2" />
+    <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="coco.names">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="keepObjects.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="oiv7_classes.names">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="yolo11x.onnx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="yolov4.cfg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="yolov4.weights">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="yolov8x-oiv7.onnx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

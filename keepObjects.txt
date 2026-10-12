@@ -1,0 +1,209 @@
+﻿Alpaca
+Animal
+Antelope
+Armadillo
+Backpack
+Ball
+Balloon
+Barrel
+Baseball bat
+Baseball glove
+Bat (Animal)
+Bear
+Bee
+Beetle
+Bird
+Blue jay
+Boat
+Boot
+Bottle
+Bowl
+Box
+Boy
+Brown bear
+Bull
+Butterfly
+Camel
+Canary
+Canoe
+Car
+Cat
+Cattle
+Centipede
+Chair
+Chicken
+Christmas tree
+Cocktail
+Coin
+Container
+Cookie
+Crocodile
+Cucumber
+Deer
+Dinosaur
+Dog
+Dolphin
+Dragonfly
+Dress
+Drill (Tool)
+Drink
+Drinking straw
+Drum
+Duck
+Eagle
+Egg (Food)
+Elephant
+Falcon
+Fire hydrant
+Fish
+Flower
+Flowerpot
+Flying disc
+Football
+Footwear
+Fountain
+Fox
+Frog
+Furniture
+Giraffe
+Girl
+Glasses
+Goat
+Goldfish
+Golf ball
+Goose
+Hamburger
+Hammer
+Handgun
+Hat
+Hedgehog
+Helicopter
+Helmet
+High heels
+Hippopotamus
+Horizontal bar
+Horse
+Houseplant
+Human arm
+Human beard
+Human body
+Human ear
+Human eye
+Human face
+Human foot
+Human hair
+Human hand
+Human leg
+Human mouth
+Human nose
+Insect
+Invertebrate
+Jaguar (Animal)
+Jellyfish
+Jet ski
+Jug
+Kangaroo
+Kite
+Koala
+Ladder
+Ladybug
+Land vehicle
+Limousine
+Lion
+Lynx
+Magpie
+Mammal
+Man
+Maple
+Marine invertebrates
+Marine mammal
+Missile
+Mobile phone
+Monkey
+Moths and butterflies
+Motorcycle
+Mouse
+Mule
+Musical instrument
+Necklace
+Orange
+Ostrich
+Otter
+Owl
+Oyster
+Paddle
+Panda
+Parachute
+Parrot
+Peach
+Pear
+Penguin
+Person
+Personal flotation device
+Pig
+Pineapple
+Pitcher (Container)
+Plant
+Plate
+Polar bear
+Popcorn
+Porcupine
+Pretzel
+Pumpkin
+Rabbit
+Raccoon
+Raven
+Reptile
+Rhinoceros
+Rifle
+Rose
+Sandal
+Scorpion
+Screwdriver
+Sea lion
+Sea turtle
+Seahorse
+Shark
+Sheep
+Shotgun
+Skateboard
+Skull
+Skyscraper
+Snail
+Snake
+Snowman
+Sparrow
+Spider
+Squash (Plant)
+Squirrel
+Stop sign
+Strawberry
+Street light
+Submarine
+Sun hat
+Sunglasses
+Swan
+Swimming pool
+Sword
+Table
+Tablet computer
+Tank
+Teddy bear
+Tent
+Tiger
+Tortoise
+Truck
+Turkey
+Turtle
+Vehicle
+Vehicle registration plate
+Volleyball (Ball)
+Watercraft
+Weapon
+Wheel
+Wheelchair
+Winter melon
+Woodpecker
+Worm
+Wrench
+Zebra
